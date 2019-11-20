@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+---
+title: Data Science Portfolio
+---
+
+
+
+## Front Matter - 3 dashes
+## Welcome to GitHub Pages with jekyll
+
 
 You can use the [editor on GitHub](https://github.com/danmontenegro/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
