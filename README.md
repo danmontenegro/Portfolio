@@ -10,11 +10,7 @@ Hello World,
 
 #### link
 
-(this text is visible) https://jekyllrb.com/docs/front-matter/
-
 [Data Science Projects] (projects)
-
-
 
 ## Front Matter - 3 dashes
 ## Welcome to GitHub Pages with jekyll
