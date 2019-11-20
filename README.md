@@ -3,6 +3,20 @@ title: Data Science Portfolio
 ---
 
 
+# My Data Science Journey
+
+
+Hello World, 
+
+#### link
+
+(this text is visible) https://jekyllrb.com/docs/front-matter/
+
+
+
+
+
+
 
 ## Front Matter - 3 dashes
 ## Welcome to GitHub Pages with jekyll
