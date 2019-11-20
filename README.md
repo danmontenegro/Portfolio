@@ -21,8 +21,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-```
-python
+```python
 import pandas as pd
 def function_1(param):
   return blank
