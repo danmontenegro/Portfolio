@@ -1,6 +1,6 @@
 
 ---
-I amthe dumbest person on earth
+Right?
 ---
 
 ## Truth hurts
