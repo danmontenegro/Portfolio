@@ -16,8 +16,6 @@ Hello World,
 
 
 
-
-
 ## Front Matter - 3 dashes
 ## Welcome to GitHub Pages with jekyll
 
