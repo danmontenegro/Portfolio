@@ -9,8 +9,7 @@ Title rules
 Hello World, 
 
 #### link
-
-[Data Science Projects] (projects)
+[Data Science Projects](projects)
 
 ## Front Matter - 3 dashes
 ## Welcome to GitHub Pages with jekyll
